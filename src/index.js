@@ -12,7 +12,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('http://google.com');
+  win.loadURL('https://localhost:3333/');
 }
 
 function createShortCuts() {
